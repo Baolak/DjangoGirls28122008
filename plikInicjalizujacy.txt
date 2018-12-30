@@ -1,1 +1,1 @@
-a = 1
+a = 4; zmiana zaklocenie w galezi develop
