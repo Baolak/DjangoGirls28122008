@@ -56,7 +56,7 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         #'DIRS': ['/media/bartek/A65A19C55A199363/SzukaniePracy/Uporządkowane/Python/ProgramyLinux/DjangoGirls28122018/DjangoGirls28122008/blog/templetes'],
-        'DIRS': ['./blog/templetes'],
+        'DIRS': ['./blog/templetes', '/home/BartekBartek/bartekbartek.pythonanywhere.com/blog/templetes'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
